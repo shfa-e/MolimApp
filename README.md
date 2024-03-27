@@ -12,4 +12,6 @@ Molim aims to provide students with a simple and convenient platform to explore 
 - **Electronic Certificates**: Receive certificates electronically upon completion of courses.
 - **Enhanced Engagement**: Participate in campus events and seize opportunities for academic and personal growth.
 
-https://github.com/shfa-e/MolimApp/assets/108056232/cf20838d-1e6f-43c6-a23a-d4d59ac00287
+## Demo
+https://github.com/shfa-e/MolimApp/assets/108056232/279377fa-05ee-40c0-bb4f-a8e488fa0e22
+
